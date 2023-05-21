@@ -2,8 +2,8 @@
 
 ## Uitwerking van het project voor het OPZ van Geel
 
-### TimelineJS
 Voor de uitwerking van ons project hebben we ervoor gekozen om text die word ingevoerd in een spreadsheet om te zetten naar een tijdlijn.
+Hiervoor gebruiken we timelineJS:
 
 ```
 https://timeline.knightlab.com/
