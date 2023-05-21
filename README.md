@@ -13,3 +13,9 @@ Link naar de tijdlijn van Geel:
 https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1F9F5Cl_n8LgSUY3os4rMuDWiZnKBfKbLnmQwoScBWOk&font=Default&lang=en&initial_zoom=2&height=650
 ```
 
+## Gesloten browser - Openkiosk
+Om de tijdlijn in een gesloten browser weer te geven gebruiken we het programma "Openkiosk".
+```
+https://openkiosk.mozdevgroup.com/
+```
+
