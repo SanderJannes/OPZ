@@ -4,7 +4,9 @@
 
 Voor de uitwerking van ons project hebben we ervoor gekozen om text die word ingevoerd in een spreadsheet om te zetten naar een tijdlijn. Deze manier is zeer makkelijk te gebruiken als je niet veel IT ervaring hebt. de spreadsheet word omgezet naar een website die we hosten op netlify. dit is een gratis hosting platform. voor de gebruiker is het zeer handig om de tijdlijn aan te passen. Men hoeft enkel de spreadsheet aan te passen en de tijdlijn word meteen veranderd.
 
+```
 link naar de tijdlijn buiten Geel: https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1mcBe4HW9IxMTVZpRAtdiNiT1S0FyA3dtb1I8hLUr-uc&font=Default&lang=en&initial_zoom=2&height=650
-
+```
+```
 link naar de tijdlijn van Geel: https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1F9F5Cl_n8LgSUY3os4rMuDWiZnKBfKbLnmQwoScBWOk&font=Default&lang=en&initial_zoom=2&height=650
-
+```
